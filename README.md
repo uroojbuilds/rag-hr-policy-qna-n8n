@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 # 🚀 Overview
 
@@ -22,7 +22,7 @@ This project uses **Retrieval-Augmented Generation (RAG)** to build an intellige
 
 Built entirely using **n8n**, this workflow demonstrates how AI agents can interact with company knowledge bases to answer questions in natural language.
 
----
+
 
 # ✨ Features
 
@@ -35,7 +35,7 @@ Built entirely using **n8n**, this workflow demonstrates how AI agents can inter
 - ⚡ Built with n8n's visual workflow builder
 - 🔄 Easy to extend with new documents
 
----
+
 
 # 🏗 Workflow Architecture
 
@@ -61,7 +61,7 @@ Groq Chat Model
 Answer to User
 ```
 
----
+
 
 # 📸 Workflow Screenshots
 
@@ -69,25 +69,25 @@ Answer to User
 
 ![Workflow](images/workflow.jpeg)
 
----
+
 
 ## Vector Store & Embeddings
 
 ![Vector Store](images/vector-store.jpeg)
 
----
+
 
 ## Chat Demo
 
 ![Chat Demo](images/chat-demo.jpeg)
 
----
+
 
 ## Workflow Output
 
 ![Workflow Output](images/workflow-output.jpeg)
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -100,7 +100,7 @@ Answer to User
 | AI Agent | Intelligent Responses |
 | RAG | Context Retrieval |
 
----
+
 
 # 📂 Repository Structure
 
@@ -115,9 +115,9 @@ rag-hr-policy-qna-n8n
     ├── vector-store.jpeg
     ├── chat-demo.jpeg
     └── workflow-output.jpeg
-```
 
----
+
+
 
 # ⚙️ How It Works
 
@@ -129,7 +129,7 @@ rag-hr-policy-qna-n8n
 6. Groq LLM generates a context-aware answer.
 7. The response is returned to the user.
 
----
+
 
 # 📥 Getting Started
 
@@ -139,7 +139,7 @@ rag-hr-policy-qna-n8n
 git clone https://github.com/uroojbuilds/rag-hr-policy-qna-n8n.git
 ```
 
----
+
 
 ## Import into n8n
 
@@ -150,7 +150,7 @@ git clone https://github.com/uroojbuilds/rag-hr-policy-qna-n8n.git
 5. Load your HR policy document.
 6. Execute the workflow.
 
----
+
 
 # 💼 Real-World Use Cases
 
@@ -161,7 +161,7 @@ git clone https://github.com/uroojbuilds/rag-hr-policy-qna-n8n.git
 - 🎓 Employee Onboarding
 - 🤖 Internal AI Assistant
 
----
+
 
 # 🔮 Future Improvements
 
@@ -174,7 +174,7 @@ git clone https://github.com/uroojbuilds/rag-hr-policy-qna-n8n.git
 - Web Chat Interface
 - Conversation Memory
 
----
+
 
 # 🤝 Contributing
 
@@ -182,7 +182,7 @@ Contributions are welcome!
 
 Feel free to fork this repository, improve the workflow, and submit a pull request.
 
----
+
 
 # 👩‍💻 Author
 
@@ -192,7 +192,7 @@ Feel free to fork this repository, improve the workflow, and submit a pull reque
 
 Passionate about building practical AI systems, intelligent automation workflows, and real-world applications using Generative AI and Machine Learning.
 
----
+
 
 <div align="center">
 
