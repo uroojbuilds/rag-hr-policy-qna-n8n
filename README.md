@@ -83,10 +83,6 @@ Answer to User
 
 
 
-## Workflow Output
-
-![Workflow Output](images/workflow-output.jpeg)
-
 
 
 # 🛠️ Tech Stack
